@@ -1,0 +1,1 @@
+//code javascript de la page web d'enregistrement de numéro de téléphone
